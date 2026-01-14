@@ -4,4 +4,4 @@ data
 PB
 perforatedai.egg-info
 **/__pycache__
-/build
+/build.DS_Store
